@@ -8,7 +8,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(
     ChangeNotifierProvider(
-      create: (_) =>WeatherProvider()..initDefaultWeather(), // 👈 auto call here
+      create: (_) =>WeatherProvider()..initDefaultWeather(),
       child: const MyApp(),
     ),
   );
