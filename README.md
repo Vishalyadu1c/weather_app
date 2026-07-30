@@ -2,6 +2,14 @@
 
 A simple, multi-platform weather application built with Flutter. It fetches and displays the current weather for your location or any city you search for. The app features a dynamic UI that changes its background gradient based on the weather conditions.
 
+
+<p align="center">
+  <img src="./assets/videos/demo.gif" 
+       alt="Weather App Demo" 
+       width="200" height="400" />
+</p>
+
+
 ## Features
 
 -   **Current Weather:** Displays temperature, condition (e.g., "Sunny", "Cloudy"), and humidity.
